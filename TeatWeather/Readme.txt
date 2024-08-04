@@ -11,3 +11,5 @@ https://dev.azure.com/sangeetaguptap
 
 WeatherAgentPoolcls
 git fetch
+
+now we are able to create CI CD Reelease
