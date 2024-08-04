@@ -30,3 +30,4 @@ E:\Sangy\Sangy Study\TestProgram\TeatWeather\TeatWeather\obj\Debug\net8.0\refint
 E:\Sangy\Sangy Study\TestProgram\TeatWeather\TeatWeather\obj\Debug\net8.0\TeatWeather.pdb
 E:\Sangy\Sangy Study\TestProgram\TeatWeather\TeatWeather\obj\Debug\net8.0\TeatWeather.genruntimeconfig.cache
 E:\Sangy\Sangy Study\TestProgram\TeatWeather\TeatWeather\obj\Debug\net8.0\ref\TeatWeather.dll
+E:\Sangy\Sangy Study\TestProgram\TeatWeather\TeatWeather\obj\Debug\net8.0\TeatWeather.sourcelink.json
