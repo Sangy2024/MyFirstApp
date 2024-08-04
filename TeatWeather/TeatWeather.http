@@ -1,0 +1,6 @@
+@TeatWeather_HostAddress = http://localhost:5271
+
+GET {{TeatWeather_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
