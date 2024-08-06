@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeatWeather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3908960516c0ad59ffc57eb3bf740bbd48a2b7b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af03be03c7669adb6a60573d6d9eaafd06d52f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeatWeather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeatWeather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
